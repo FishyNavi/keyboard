@@ -1,6 +1,6 @@
 # Hackyboard!
 ## Overview
-They main reason of why this was made is the fact that i play osu. My laptop's keyboard probably doesn't like being smashed at the rate of 12cps so one day i thought that it would be nice to have something to click on. I also thought that i should make a keyboard just because i can(and for various other reasons). I will be honest, it lacks some polish but it's good enough. I will update this and share the result once i build it!
+They main reason of why this was made is the fact that i play osu. My laptop's keyboard probably doesn't like being smashed at the rate of 12cps so one day i thought that it would be nice to have something to click on. I also thought that i should make a keyboard just because i can(and for various other reasons). Routing was kinda time consuming and i tried to minimize interference.  I will be honest, it lacks some polish but it's good enough. I will update this and share the result once i build it!
 ## PCB
 `pcb/`
 The PCB was designed in KiCAD 10.
