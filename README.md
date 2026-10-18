@@ -24,6 +24,7 @@ All of the components are avaible on LCSC:
 | 3.3V Positive Fixed SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS | 1 | 0.8178 | C500795 | [Link](https://www.lcsc.com/product-detail/C500795.html) |
 | ARM Cortex-M4F 32 Bit 170MHz LQFP-48(7x7) Microcontrollers RoHS | 1 | 5.0690 | C529355 | [Link](https://www.lcsc.com/product-detail/C529355.html) |
 | IC SWITCH 8:1 350Ω TSSOP-16 | 10 | 0.1317 | C19723805 | [Link](https://www.lcsc.com/product-detail/C19723805.html) |
+Total will be 21.39 or less
 ## FIRMWARE
 ./firmware
 The firmware is [libhmk](https://github.com/peppapighs/libhmk)
