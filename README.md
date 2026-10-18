@@ -6,7 +6,7 @@ They main reason of why this was made is the fact that i play osu. My laptop's k
 The PCB was designed in KiCAD 10.
 ![](image-1.png)
 ![](image-2.png)
-- The PCB is designed for Cherry MX magnetic switches. 
+- The PCB is designed for Cherry magnetic switches. 
 - The sensors' measurement range is ~82.5mT.
 - The MCU that's used is STM32G431CBT6
 
@@ -24,6 +24,7 @@ All of the components are avaible on LCSC:
 | 3.3V Positive Fixed SOT-223 Voltage Regulators - Linear, Low Drop Out (LDO) Regulators RoHS | 1 | 0.8178 | C500795 | [Link](https://www.lcsc.com/product-detail/C500795.html) |
 | ARM Cortex-M4F 32 Bit 170MHz LQFP-48(7x7) Microcontrollers RoHS | 1 | 5.0690 | C529355 | [Link](https://www.lcsc.com/product-detail/C529355.html) |
 | IC SWITCH 8:1 350Ω TSSOP-16 | 10 | 0.1317 | C19723805 | [Link](https://www.lcsc.com/product-detail/C19723805.html) |
+Total will be 21.39 or less
 ## FIRMWARE
 ./firmware
 The firmware is [libhmk](https://github.com/peppapighs/libhmk)
