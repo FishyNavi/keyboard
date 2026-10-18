@@ -6,6 +6,7 @@ They main reason of why this was made is the fact that i play osu. My laptop's k
 The PCB was designed in KiCAD 10.
 ![](image-1.png)
 ![](image-2.png)
+<img width="1139" height="395" alt="image" src="https://github.com/user-attachments/assets/cd454178-988a-469a-b553-b807b98153e1" />
 - The PCB is designed for Cherry magnetic switches. 
 - The sensors' measurement range is ~82.5mT.
 - The MCU that's used is STM32G431CBT6
