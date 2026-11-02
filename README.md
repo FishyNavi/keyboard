@@ -23,7 +23,7 @@ The PCB was designed in KiCAD 10.
 
 ## CASE
 `case/`
-The case was designet in oneshape.
+The case was designed in oneshape.
 
 - Fits with the pcb (wow)
 - Looks simple
