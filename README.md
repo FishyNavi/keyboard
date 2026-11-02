@@ -6,6 +6,8 @@ They main reason of why this was made is the fact that i play osu. My laptop's k
 
 I will update this and share the result once i build it!
 
+All of the stuff along with links can be found in `bom.md`
+
 ![design](image.png)
 ![render_back](image-2.png)
 ![render_front](image-1.png)
@@ -28,7 +30,7 @@ The case was designet in oneshape.
 
 It's nothing very special actually. Bottom part, pcb and switch plate are sandwiched together and then it is sandwiched again with (another) bottom and top parts of the case. You can see it on the image on top.
 
-All of the parts except the switch plate are designed to be 3d printed. The switch plate should be machined with cnc from 1.5 allu plate.
+All of the parts except the switch plate are designed to be 3d printed. The switch plate should be machined with cnc from 1.5 aluminium plate.
 
 > [!NOTE]
 > The switch plate can be cut with lser instead but then you will have to use diffrent kind od screws
